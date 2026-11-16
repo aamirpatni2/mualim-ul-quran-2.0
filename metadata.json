@@ -1,0 +1,6 @@
+{
+  "name": "Fehm-ul-Quran — Quranic Arabic for Urdu Speakers",
+  "description": "Step-by-step interactive Quranic Arabic learning path from alphabet and Urdu-Arabic shared vocabulary to Sarf, Nahw, and direct Quranic translation for native Urdu speakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

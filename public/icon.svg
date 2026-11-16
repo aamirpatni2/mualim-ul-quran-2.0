@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#047857"/>
+  <!-- Rub-el-Hizb 8-point star outer frame -->
+  <rect x="128" y="128" width="256" height="256" rx="20" fill="none" stroke="#FCD34D" stroke-width="18"/>
+  <rect x="128" y="128" width="256" height="256" rx="20" fill="none" stroke="#FCD34D" stroke-width="18" transform="rotate(45 256 256)"/>
+  <!-- Open Quran Book silhouette -->
+  <path d="M168 205 C206 190 238 198 256 214 C274 198 306 190 344 205 L344 318 C306 303 274 311 256 327 C238 311 206 303 168 318 Z" fill="#F7F8F6"/>
+  <path d="M256 214 L256 327" stroke="#047857" stroke-width="8" stroke-linecap="round"/>
+</svg>
